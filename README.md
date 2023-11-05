@@ -1,2 +1,2 @@
 # My-Projects
-This are My projects
+This are My projects.
